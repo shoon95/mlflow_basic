@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sjhty/Desktop/SHoon/mlflow_basic/mlruns/0/b45d9015e079451fb7d557d0db022328/artifacts
+end_time: 1681232723640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b45d9015e079451fb7d557d0db022328
+run_name: crawling-gull-210
+run_uuid: b45d9015e079451fb7d557d0db022328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681232718259
+status: 3
+tags: []
+user_id: sjhty

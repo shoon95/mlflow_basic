@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sjhty/Desktop/SHoon/mlflow_basic/mlruns/0/db9e9877310744949ea5cd460fd43632/artifacts
+end_time: 1681232639524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: db9e9877310744949ea5cd460fd43632
+run_name: unique-deer-756
+run_uuid: db9e9877310744949ea5cd460fd43632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681232639471
+status: 4
+tags: []
+user_id: sjhty
